@@ -1,3 +1,4 @@
+#python program to find area and perimeter 
 a=input("Enter the length")
 b=input("enter the breadth")
 area=a*b
